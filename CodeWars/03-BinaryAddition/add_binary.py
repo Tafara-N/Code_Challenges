@@ -12,5 +12,5 @@ def add_binary(a,b):
     
     return binary_sum
 
-result = add_binary(1, 1)
+result = add_binary(59, 100)
 print(result)

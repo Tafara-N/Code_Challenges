@@ -10,7 +10,7 @@ def square_digits(num):
     num_str = str(num)
 
     # Square each digit and convert it back to an int
-    squared_digits = [int(digit)**2 for digit in num_str]
+    squared_digits = [int(digit) ** 2 for digit in num_str]
 
     # Concatenate the squared digits and convert the result to an integer
     result = int(''.join(map(str, squared_digits)))

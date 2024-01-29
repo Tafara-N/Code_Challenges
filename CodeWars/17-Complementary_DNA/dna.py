@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-A function that receives one side of the DNA and returns the other complementary side.
+A function that receives one side of the DNA and returns the complementary side.
 """
 
 

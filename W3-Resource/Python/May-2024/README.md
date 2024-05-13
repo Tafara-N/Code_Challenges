@@ -37,6 +37,6 @@ Current date and time :
 Sample Output:
 
 ```python
-r = 1.1
-Area = 3.8013271108436504
+Enter the radius of the circle: 1.1
+Area of the circle: 3.80
 ```

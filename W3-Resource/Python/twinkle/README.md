@@ -15,7 +15,7 @@ Twinkle, twinkle, little star,
 	How I wonder what you are
 ```
 
-### 2. Prints the Python version you're using
+### 2. Write a Python program to find out what version of Python you are using.
 
 Sample Output:
 

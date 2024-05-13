@@ -88,4 +88,4 @@ Tuple : ('3', ' 5', ' 7', ' 23')
 
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/May-2024`
-- File: ``
+- File: `list_and_tuple.py`

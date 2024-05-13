@@ -1,8 +1,5 @@
-# 1. Name
+#  W3-Resources
 
-Write a C program to print your name, date of birth, and mobile number.
-Expected Output:
+[Link](https://www.w3resource.com/python-exercises/python-basic-exercises.php)
 
-Name   : Alexandra Abramov
-DOB    : July 14, 1975
-Mobile : 99-9999999999
+## Python Code Practise Projects

@@ -89,3 +89,18 @@ Tuple : ('3', ' 5', ' 7', ' 23')
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/May-2024`
 - File: `list_and_tuple.py`
+
+
+### 7. Write a Python program that accepts a filename from the user and prints the extension of the file.
+
+Sample filename : abc.java
+
+Sample Output :
+
+```python
+This is a : java file
+```
+
+- GitHub repository: `Code_Challenges`
+- Directory: `W3-Resources/May-2024`
+- File: `file_name.py`

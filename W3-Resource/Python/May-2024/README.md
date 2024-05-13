@@ -46,5 +46,7 @@ Area of the circle: 3.80
 Sample Output:
 
 ```python
-
+Enter your first name: Tafara
+Enter your last name: Nyamhunga
+arafaT agnuhmayN
 ```

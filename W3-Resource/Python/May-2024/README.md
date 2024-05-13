@@ -50,3 +50,11 @@ Enter your first name: Tafara
 Enter your last name: Nyamhunga
 arafaT agnuhmayN
 ```
+
+### 6. Write a Python program that accepts a sequence of comma-separated numbers from the user and generates a list and a tuple of those numbers.
+
+Sample Output:
+
+```python
+
+```

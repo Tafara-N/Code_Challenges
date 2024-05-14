@@ -112,7 +112,8 @@ color_list = ["Red","Green","White" ,"Black"]
 Sample Output
 
 ```python
-
+The first color in the list is: Red
+The last color in the list is: Black
 ```
 
 - GitHub repository: `Code_Challenges`

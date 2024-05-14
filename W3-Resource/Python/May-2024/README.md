@@ -114,3 +114,7 @@ Sample Output
 ```python
 
 ```
+
+- GitHub repository: `Code_Challenges`
+- Directory: `W3-Resources/May-2024`
+- File: `first_last.py`

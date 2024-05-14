@@ -104,3 +104,13 @@ This is a : java file
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/May-2024`
 - File: `file_name.py`
+
+### 8. Write a Python program to display the first and last colors from the following list.
+
+color_list = ["Red","Green","White" ,"Black"]
+
+Sample Output
+
+```python
+
+```

@@ -148,3 +148,17 @@ Expected Result : 615
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/May-2024`
 - File: `number_value.py`
+
+### 11. Write a Python program to print the documents (syntax, description etc.) of Python built-in function(s).
+
+Sample function : abs()
+
+```python
+Expected Result :
+abs(number) -> number
+Return the absolute value of the argument.
+```
+
+- GitHub repository: `Code_Challenges`
+- Directory: `W3-Resources/May-2024`
+- File: `describe_function.py`

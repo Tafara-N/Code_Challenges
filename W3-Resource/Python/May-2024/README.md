@@ -136,3 +136,15 @@ The examination will start from : 11 / 12 / 2014
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/May-2024`
 - File: `exam_date.py`
+
+### 10. Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn.
+
+Sample value of n is 5
+
+```python
+Expected Result : 615
+```
+
+- GitHub repository: `Code_Challenges`
+- Directory: `W3-Resources/May-2024`
+- File: `number_value.py`

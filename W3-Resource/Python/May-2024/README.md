@@ -107,8 +107,9 @@ This is a : java file
 
 ### 8. Write a Python program to display the first and last colors from the following list.
 
+```python
 color_list = ["Red","Green","White" ,"Black"]
-
+```
 Sample Output
 
 ```python
@@ -119,3 +120,19 @@ The last color in the list is: Black
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/May-2024`
 - File: `first_last.py`
+
+### 9. Write a Python program to display the examination schedule. (extract the date from exam_st_date).
+
+```python
+exam_st_date = (11, 12, 2014)
+```
+
+Sample Output :
+
+```python
+The examination will start from : 11 / 12 / 2014
+```
+
+- GitHub repository: `Code_Challenges`
+- Directory: `W3-Resources/May-2024`
+- File: `exam_date.py`

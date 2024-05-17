@@ -172,6 +172,11 @@ Return the absolute value of the argument.
 Sample output :
 
 ```python
+Enter the year: 2024
+Enter the month: 5
+```
+
+```python
       May 2024
 Mo Tu We Th Fr Sa Su
        1  2  3  4  5

@@ -20,6 +20,7 @@ def print_calendar(yyyy, mm):
     :param yyyy: Year
     :param mm: Month
     """
+
     print("\n", month(yyyy, mm))
 
 

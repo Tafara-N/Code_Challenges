@@ -141,6 +141,8 @@ The examination will start from : 11 / 12 / 2014
 
 Sample value of n is 5
 
+Sample output :
+
 ```python
 Expected Result : 615
 ```
@@ -153,6 +155,8 @@ Expected Result : 615
 
 Sample function : abs()
 
+Sample output :
+
 ```python
 Expected Result :
 abs(number) -> number
@@ -162,3 +166,11 @@ Return the absolute value of the argument.
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/May-2024`
 - File: `describe_function.py`
+
+### 12. Write a Python program that prints the calendar for a given month and year.
+
+Sample output :
+
+- GitHub repository: `Code_Challenges`
+- Directory: `W3-Resources/May-2024`
+- File: `calendar_month.py`

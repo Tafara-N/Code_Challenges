@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from calendar import month
+import calendar
 
 
 def main():
@@ -14,14 +14,14 @@ def main():
     print_calendar(year, month)
 
 
-def print_calendar(yyyy, mm):
+def print_calendar(yyyy, month):
     """
     Prints the calendar for a given month and year.
-    :param yyyy: Year
-    :param mm: Month
+    :parameter yyyy: Year
+    :parameter month: Month
     """
 
-    print("\n", month(yyyy, mm))
+    print("\n", calendar.month(yyyy, month))
 
 
 if __name__ == "__main__":

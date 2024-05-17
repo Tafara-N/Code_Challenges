@@ -185,6 +185,22 @@ Mo Tu We Th Fr Sa Su
 20 21 22 23 24 25 26
 27 28 29 30 31
 ```
+
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/May-2024`
 - File: `calendar_month.py`
+
+### 13. Write a Python program to print the following 'here document'.
+
+Sample string :
+
+```python
+a string that you "don't" have to escape
+This
+is a ....... multi-line
+heredoc string --------> example
+```
+
+- GitHub repository: `Code_Challenges`
+- Directory: `W3-Resources/May-2024`
+- File: `no_new_lines.py`

@@ -9,9 +9,9 @@ def main():
     """
 
     year = int(input("Enter the year: "))
-    mm = int(input("Enter the month: "))
+    month = int(input("Enter the month: "))
 
-    print_calendar(year, mm)
+    print_calendar(year, month)
 
 
 def print_calendar(yyyy, mm):

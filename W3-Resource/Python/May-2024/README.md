@@ -209,7 +209,11 @@ heredoc string --------> example
 
 Sample dates : (2014, 7, 2), (2014, 7, 11)
 
-Expected output : 9 days
+Expected output :
+
+```python
+The number of days between 2014-07-02 and 2014-07-11 is 9 days.
+```
 
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/May-2024`

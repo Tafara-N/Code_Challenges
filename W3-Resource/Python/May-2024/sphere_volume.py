@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 
-# Program to get the volume of a sphere with radius six
+"""
+Program to get the volume of a sphere with radius six
+
+Formula: volume = (4 / 3) * π * r ^ 3
+"""
 
 from math import pi
 

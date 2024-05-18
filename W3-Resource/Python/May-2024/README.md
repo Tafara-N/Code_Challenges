@@ -223,7 +223,7 @@ The volume of a sphere with radius 6 is 904.78
 Sample output:
 
 ```python
-The radius of a sphere with volume 356.82 cu.cm is
+The radius of a sphere with volume 356.82 cu.cm is 4.40
 ```
 
 - GitHub repository: `Code_Challenges`

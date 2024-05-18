@@ -216,3 +216,16 @@ The volume of a sphere with radius 6 is 904.78
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/May-2024`
 - File: `sphere_volume.py`
+
+
+### 16. A sphere has a volume equal to 356.82 cu.cm. Find the radius of the sphere.
+
+Sample output:
+
+```python
+The radius of a sphere with volume 356.82 cu.cm is
+```
+
+- GitHub repository: `Code_Challenges`
+- Directory: `W3-Resources/May-2024`
+- File: `sphere_radius.py`

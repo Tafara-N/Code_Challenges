@@ -250,3 +250,9 @@ The radius of a sphere with volume 356.82 cu.cm is 4.40
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/June-2024`
 - File: `difference_by_17.py`
+
+### 17. Write a Python program to test whether a number is within 100 of 1000 or 2000.
+
+- GitHub repository: `Code_Challenges`
+- Directory: `W3-Resources/June-2024`
+- File: `within_1000_and_2000.py`

@@ -280,9 +280,22 @@ Enter a number: 2200
 Sample output:
 
 ```python
+Enter the first number: 10
+Enter the second number: 20
+Enter the third number: 30
+Sum of three numbers is:  60
 
+Enter the first number: 10
+Enter the second number: 10
+Enter the third number: 10
+Sum of three numbers is:  90
 ```
 
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/June-2024`
 - File: `sum_of_three.py`
+
+### 19. Write a Python program to get a newly-generated string from a given string where "Is" has been added to the front.
+### Return the string unchanged if the given string already begins with "Is".
+
+Sample

@@ -298,4 +298,19 @@ Sum of three numbers is:  90
 ### 19. Write a Python program to get a newly-generated string from a given string where "Is" has been added to the front.
 ### Return the string unchanged if the given string already begins with "Is".
 
-Sample
+Sample output:
+
+```python
+Enter a string: Is this your house?
+Already prefixed with 'Is': Is this your house?
+
+Enter a string: is this your house?
+Is is this your house?
+
+Enter a string: Were you home yesterday?
+Is Were you home yesterday?
+```
+
+- GitHub repository: `Code_Challenges`
+- Directory: `W3-Resources/June-2024`
+- File: `add_Is.py`

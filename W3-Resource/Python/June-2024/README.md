@@ -247,6 +247,16 @@ The radius of a sphere with volume 356.82 cu.cm is 4.40
 ### 16. Write a Python program to calculate the difference between a given number and 17.
 ### If the number is greater than 17, return twice the absolute difference.
 
+Sample output:
+
+```python
+Enter a number: 4
+Difference between 4 and 17 is: 13
+
+Enter a number: 20
+Difference between 20 and 17 is: 6
+```
+
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/June-2024`
 - File: `difference_by_17.py`

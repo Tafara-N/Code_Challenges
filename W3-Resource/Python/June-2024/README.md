@@ -253,6 +253,13 @@ The radius of a sphere with volume 356.82 cu.cm is 4.40
 
 ### 17. Write a Python program to test whether a number is within 100 of 1000 or 2000.
 
+Sample output:
+
+```python
+Enter a number: 2200
+2200 is not within 100 of 1000 or 2000
+```
+
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/June-2024`
 - File: `within_1000_and_2000.py`

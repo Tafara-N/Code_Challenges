@@ -273,3 +273,16 @@ Enter a number: 2200
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/June-2024`
 - File: `within_1000_and_2000.py`
+
+### 18. Write a Python program to calculate the sum of three given numbers.
+### If the values are equal, return three times their sum.
+
+Sample output:
+
+```python
+
+```
+
+- GitHub repository: `Code_Challenges`
+- Directory: `W3-Resources/June-2024`
+- File: `sum_of_three.py`

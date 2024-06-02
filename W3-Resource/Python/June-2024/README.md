@@ -243,3 +243,10 @@ The radius of a sphere with volume 356.82 cu.cm is 4.40
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/May-2024`
 - File: `sphere_radius.py`
+
+### 16. Write a Python program to calculate the difference between a given number and 17.
+### If the number is greater than 17, return twice the absolute difference.
+
+- GitHub repository: `Code_Challenges`
+- Directory: `W3-Resources/June-2024`
+- File: `difference_by_17.py`

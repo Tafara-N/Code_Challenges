@@ -14,3 +14,8 @@ def even_or_odd(number):
     if number % 2 == 0:
         return f"{number} is even."
     return f"{number} is odd."
+
+
+if __name__ == "__main__":
+    number = int(input("Enter a number: "))
+    print(even_or_odd(number))

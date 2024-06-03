@@ -314,3 +314,13 @@ Is Were you home yesterday?
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/June-2024`
 - File: `add_Is.py`
+
+### 20. Write a Python program that returns a string that is n (non-negative integer) copies of a given string.
+
+Sample output:
+
+```python
+Enter a string: This is my name
+Enter a non-negative integer: 3
+This is my nameThis is my nameThis is my name
+```

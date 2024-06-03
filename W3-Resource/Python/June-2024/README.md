@@ -324,3 +324,19 @@ Enter a string: This is my name
 Enter a non-negative integer: 3
 This is my nameThis is my nameThis is my name
 ```
+
+- GitHub repository: `Code_Challenges`
+- Directory: `W3-Resources/June-2024`
+- File: `copy_string.py`
+
+### 21. Write a Python program that determines whether a given number (accepted from the user) is even or odd, and prints an appropriate message to the user.
+
+Sample output:
+
+```python
+
+```
+
+- GitHub repository: `Code_Challenges`
+- Directory: `W3-Resources/June-2024`
+- File: `

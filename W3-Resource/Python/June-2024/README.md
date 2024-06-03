@@ -344,3 +344,15 @@ Enter a number: 11
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/June-2024`
 - File: `even_or_odd.py`
+
+### 22. Write a Python program to count the number 4 in a given list.
+
+Sample output:
+
+```python
+Number occurs 3 times.
+```
+
+- GitHub repository: `Code_Challenges`
+- Directory: `W3-Resources/June-2024`
+- File: `occurrences_in_list.py`

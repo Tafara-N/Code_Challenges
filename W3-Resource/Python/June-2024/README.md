@@ -334,7 +334,11 @@ This is my nameThis is my nameThis is my name
 Sample output:
 
 ```python
+Enter a number: 4
+4 is even.
 
+Enter a number: 11
+11 is odd.
 ```
 
 - GitHub repository: `Code_Challenges`

@@ -358,3 +358,7 @@ Number occurs 3 times.
 - File: `occurrences_in_list.py`
 
 ### 24. Write a Python program to test whether a passed letter is a vowel or not.
+
+- GitHub repository: `Code_Challenges`
+- Directory: `W3-Resources/June-2024`
+- File: `

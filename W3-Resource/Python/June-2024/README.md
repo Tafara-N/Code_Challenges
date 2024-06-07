@@ -365,6 +365,10 @@ Sample output:
 ```
 ```
 
+- GitHub repository: `Code_Challenges`
+- Directory: `W3-Resources/June-2024`
+- File: `
+
 ### 24. Write a Python program to test whether a passed letter is a vowel or not.
 
 Sample output:

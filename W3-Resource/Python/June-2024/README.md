@@ -418,3 +418,29 @@ False
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/June-2024`
 - File: `found_or_missing.py`
+
+### 26. Write a Python program to create a histogram from a given list of integers.
+
+list sample:
+[1, 5, 8, 3, 1, 5, 8, 3, 1, 5, 8, 3]
+
+Sample output:
+
+```shell
+#
+#####
+########
+###
+#
+#####
+########
+###
+#
+#####
+########
+###
+```
+
+- GitHub repository: `Code_Challenges`
+- Directory: `W3-Resources/June-2024`
+- File: `list_histogram.py`

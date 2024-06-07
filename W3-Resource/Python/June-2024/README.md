@@ -370,6 +370,10 @@ bfbfbf
 Enter a string: p
 Enter a number: 3
 ppp
+
+Enter a string: b hihsdbj
+Enter a number: 3
+b b b
 ```
 
 - GitHub repository: `Code_Challenges`

@@ -508,3 +508,14 @@ Expected Output :
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/June-2024`
 - File: `display_colors.py`
+
+### 30. Write a Python program that will accept the base and height of a triangle and compute its area.
+
+Sample output:
+
+```shell
+```
+
+- GitHub repository: `Code_Challenges`
+- Directory: `W3-Resources/June-2024`
+- File: `area_of_triangle.py`

@@ -479,4 +479,4 @@ Sample output:
 
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/June-2024`
-- File: `
+- File: `display_numbers.py`

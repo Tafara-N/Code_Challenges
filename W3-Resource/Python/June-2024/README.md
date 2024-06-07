@@ -408,6 +408,11 @@ Test Data:
 Sample output:
 
 ```
+Enter a value: 3
+True
+
+Enter a value: -1
+False
 ```
 
 - GitHub repository: `Code_Challenges`

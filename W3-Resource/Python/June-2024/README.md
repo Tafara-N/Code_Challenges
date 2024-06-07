@@ -474,7 +474,19 @@ numbers = [
 Sample output:
 
 ```shell
+386
+462
+418
+344
+236
+566
+978
+328
+162
+758
+918
 
+Done...
 ```
 
 - GitHub repository: `Code_Challenges`

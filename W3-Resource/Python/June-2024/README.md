@@ -367,7 +367,7 @@ Sample output:
 
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/June-2024`
-- File: `
+- File: `string_copy.py`
 
 ### 24. Write a Python program to test whether a passed letter is a vowel or not.
 

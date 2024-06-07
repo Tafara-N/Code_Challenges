@@ -447,6 +447,11 @@ Sample output:
 
 ### 27. Write a Python program that concatenates all elements in a list into a string and returns it.
 
+Sample list:
+[1, 5, 8, 3, 34.5, 1, 5, 8, "Tafara", 3, 1, 5, 8, 3]
+
+Sample output:
+
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/June-2024`
 - File: `concat_list.py`

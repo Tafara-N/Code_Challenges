@@ -367,7 +367,9 @@ Enter a string: bfjn
 Enter a number: 3
 bfbfbf
 
-
+Enter a string: p
+Enter a number: 3
+ppp
 ```
 
 - GitHub repository: `Code_Challenges`

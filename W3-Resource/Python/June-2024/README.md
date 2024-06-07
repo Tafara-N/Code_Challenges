@@ -444,3 +444,9 @@ Sample output:
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/June-2024`
 - File: `list_histogram.py`
+
+### 27. Write a Python program that concatenates all elements in a list into a string and returns it.
+
+- GitHub repository: `Code_Challenges`
+- Directory: `W3-Resources/June-2024`
+- File: `concat_list.py`

@@ -363,6 +363,11 @@ Number occurs 3 times.
 Sample output:
 
 ```
+Enter a string: bfjn
+Enter a number: 3
+bfbfbf
+
+
 ```
 
 - GitHub repository: `Code_Challenges`

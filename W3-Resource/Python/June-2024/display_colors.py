@@ -10,9 +10,8 @@ def display_colors(color_list_1, color_list_2):
     Function that prints out all colors from color_list_1 that are not present
     in color_list_2.
     """
-    for color in color_list_1:
-        if color not in color_list_2:
-            print(color)
+
+    print(color_list_1.difference(color_list_2))
 
 
 if __name__ == "__main__":

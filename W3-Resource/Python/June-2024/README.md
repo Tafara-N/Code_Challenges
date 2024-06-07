@@ -365,12 +365,13 @@ Number occurs 3 times.
 
 Sample output:
 
-```python
+```shell
 Enter a letter: a
 a is a vowel
 
-Enter a letter: a
-a is a vowe
+Enter a letter: c
+c is not a vowel
+```
 
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/June-2024`

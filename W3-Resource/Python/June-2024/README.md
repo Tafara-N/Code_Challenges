@@ -452,6 +452,10 @@ Sample list:
 
 Sample output:
 
+```shell
+158334.5158Tafara31583
+```
+
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/June-2024`
 - File: `concat_list.py`

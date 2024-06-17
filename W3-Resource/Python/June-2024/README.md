@@ -519,3 +519,19 @@ Sample output:
 - GitHub repository: `Code_Challenges`
 - Directory: `W3-Resources/June-2024`
 - File: `area_of_triangle.py`
+
+### 31. Write a Python program that computes the greatest common divisor (GCD) of two positive integers.
+
+Sample output:
+
+- GitHub repository: `Code_Challenges`
+- Directory: `W3-Resources/June-2024`
+- File: `hcf.py`
+
+### 32. Write a Python program to find the least common multiple (LCM) of two positive integers.
+
+Sample output:
+
+- GitHub repository: `Code_Challenges`
+- Directory: `W3-Resources/June-2024`
+- File: `lcm.py`

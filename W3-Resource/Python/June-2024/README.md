@@ -514,6 +514,9 @@ Expected Output :
 Sample output:
 
 ```shell
+Enter the base: 9
+Enter the height: 6
+Area is: 27.00
 ```
 
 - GitHub repository: `Code_Challenges`

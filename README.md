@@ -1,5 +1,15 @@
-Author: Tafara-N
+# Coding Challenges
 
-Date: 2/1/24
+## Author: Tafara-N
 
-These files contains Python codes I wrote in coding challenges.
+### Platforms
+- [LeetCode](https://leetcode.com/)
+- [CodeWars](https://www.codewars.com/)
+- [Project Euler](https://projecteuler.net/)
+- [Practise Python](https://www.practicepython.org/)
+- [W3 Resource](https://www.w3resource.com/)
+- [PYative](https://pynative.com/)
+
+### Languages Used
+- Python
+- C

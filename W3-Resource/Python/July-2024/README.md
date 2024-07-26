@@ -4,5 +4,5 @@
 
 **Repo:**
 GitHub repository: Code_Challenges
-- Directory: `W3-Resources/May-2024`
+- Directory: `W3-Resources/July-2024`
 - File: `convert_json_to_object.py`

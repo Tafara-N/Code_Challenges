@@ -9,7 +9,7 @@ import json
 
 def json_to_obj(json_data):
     """
-    Function converts JSON dat to an object
+    Function converts JSON data to an object
 
     Paramaters
         json_data: JSON to be converted

@@ -9,6 +9,7 @@
 - [Practise Python](https://www.practicepython.org/)
 - [W3 Resource](https://www.w3resource.com/)
 - [PYative](https://pynative.com/)
+- [Codedex](https://www.codedex.io/)
 
 ### Languages Used
 - Python

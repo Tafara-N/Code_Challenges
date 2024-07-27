@@ -15,7 +15,7 @@ def json_to_obj(json_data):
         json_data: JSON to be converted
 
     Return
-        Python object
+        Python object: dict
     """
 
     try:

@@ -7,12 +7,12 @@ Program to convert JSON data to Python object
 import json
 
 
-def json_to_obj(json_data):
+def json_to_obj(json_data: str):
     """
     Function converts JSON data to an object
 
     Paramaters
-        json_data: JSON to be converted
+        json_data: JSON data to be converted
 
     Return
         Python object: dict

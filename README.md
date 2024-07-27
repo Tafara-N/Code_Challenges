@@ -1,6 +1,11 @@
+![Coding Challenges](online-coding-challenges.jpg)
+
 # Coding Challenges
 
-## Author: Tafara-N
+## Table of Contents
+- [Platforms](#platforms)
+- [Languages Used](#languages-used)
+- [Author](#author)
 
 ### Platforms
 - [Codedex](https://www.codedex.io/)
@@ -16,3 +21,6 @@
 - HTML / CSS
 - JavaScript
 - Python
+
+### Author
+- Tafara Nyamhunga - [Github](https://github.com/tafara-n)

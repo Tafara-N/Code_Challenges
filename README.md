@@ -3,14 +3,16 @@
 ## Author: Tafara-N
 
 ### Platforms
-- [LeetCode](https://leetcode.com/)
-- [CodeWars](https://www.codewars.com/)
-- [Project Euler](https://projecteuler.net/)
-- [Practise Python](https://www.practicepython.org/)
-- [W3 Resource](https://www.w3resource.com/)
-- [PYative](https://pynative.com/)
 - [Codedex](https://www.codedex.io/)
+- [CodeWars](https://www.codewars.com/)
+- [LeetCode](https://leetcode.com/)
+- [Practise Python](https://www.practicepython.org/)
+- [Project Euler](https://projecteuler.net/)
+- [PYative](https://pynative.com/)
+- [W3 Resource](https://www.w3resource.com/)
 
 ### Languages Used
-- Python
 - C
+- HTML / CSS
+- JavaScript
+- Python

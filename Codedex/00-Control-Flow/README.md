@@ -18,5 +18,5 @@ Make a rating system using an `if`/`elif`/`else` statement:
 
 **Repo:**
 - GitHub repository: `Code_Challenges`
-- Directory: `00-Control-Flow`
+- Directory: `Codedex`
 - File: `food_ratings.py`

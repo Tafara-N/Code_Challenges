@@ -48,8 +48,8 @@ Here’s how to test your code manually:
 - Run your program with python einstein.py. Type `14` and press Enter. Your program should output:
 
 ```bash
-1260000000000000000
-``
+    1260000000000000000
+```
 
 - Run your program with `python einstein.py`. Type `50` and press Enter. Your program should output
 

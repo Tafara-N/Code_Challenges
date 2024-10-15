@@ -1,8 +1,8 @@
 # Tip Calculator
 
-And now for my Wizard tip calculator.
-
-        — Morty Seinfeld
+> And now for my Wizard tip calculator.
+>
+>    — Morty Seinfeld
 
 In the United States, it’s customary to leave a tip for your server after dining in a restaurant, typically an amount equal to 15% or more of your meal’s cost. Not to worry, though, we’ve written a tip calculator for you, below!
 
@@ -25,33 +25,45 @@ def percent_to_float(p):
 main()
 ```
 
-Well, we’ve written most of a tip calculator for you. Unfortunately, we didn’t have time to implement two functions:
+Well, we’ve written *most* of a tip calculator for you. Unfortunately, we didn’t have time to implement two functions:
 
-dollars_to_float, which should accept a str as input (formatted as $##.##, wherein each # is a decimal digit), remove the leading $, and return the amount as a float. For instance, given $50.00 as input, it should return 50.0.
-percent_to_float, which should accept a str as input (formatted as ##%, wherein each # is a decimal digit), remove the trailing %, and return the percentage as a float. For instance, given 15% as input, it should return 0.15.
+- `dollars_to_float`, which should accept a `str` as input (formatted as `$##.##`, wherein each `#` is a decimal digit), remove the leading `$`, and return the amount as a `float`. For instance, given `$50.00` as input, it should return `50.0`.
+- `percent_to_float`, which should accept a `str` as input (formatted as `##%`, wherein each `#` is a decimal digit), remove the trailing `%`, and return the percentage as a `float`. For instance, given `15%` as input, it should return `0.15`.
+
 Assume that the user will input values in the expected formats.
 
-Hints
-Demo
+## Before You Begin
 
-Before You Begin
-Log into cs50.dev, click on your terminal window, and execute cd by itself. You should find that your terminal window’s prompt resembles the below:
+Log into cs50.dev, click on your terminal window, and execute `cd` by itself. You should find that your terminal window’s prompt resembles the below:
 
+```bash
 $
+```
+
 Next execute
 
+```bash
 mkdir tip
-to make a folder called tip in your codespace.
+```
+
+to make a folder called `tip` in your codespace.
 
 Then execute
 
+```bash
 cd tip
-to change directories into that folder. You should now see your terminal prompt as tip/ $. You can now execute
+```
 
+to change directories into that folder. You should now see your terminal prompt as `tip/ $`. You can now execute
+
+```bash
 code tip.py
-to make a file called tip.py. Copy and paste the code above into a file, and complete the implementations of dollars_to_float and percent_to_float, replacing each TODO with one or more lines of your own code.
+```
 
-How to Test
+to make a file called `tip.py`. Copy and paste the code above into a file, and complete the implementations of `dollars_to_float` and `percent_to_float`, replacing each TODO with one or more lines of your own code.
+
+### How to Test
+
 Here’s how to test your code manually:
 
 - Run your program with `python tip.py`. Type `$50.00` and press Enter. Then, type `15%` and press Enter. Your program should output:

@@ -15,18 +15,23 @@ In a file called `extensions.py`, implement a program that prompts the user for 
 - `.pdf`
 - `.txt`
 - `.zip`
-If the file’s name ends with some other suffix or has no suffix at all, output application/octet-stream instead, which is a common default.
 
-Hints
-Demo
+If the file’s name ends with some other suffix or has no suffix at all, output `application/octet-stream` instead, which is a common default.
 
-Before You Begin
-Log into cs50.dev, click on your terminal window, and execute cd by itself. You should find that your terminal window’s prompt resembles the below:
+## Before You Begin
 
+Log into cs50.dev, click on your terminal window, and execute `cd` by itself. You should find that your terminal window’s prompt resembles the below:
+
+```bash
 $
+```
+
 Next execute
 
+```bash
 mkdir extensions
+```
+
 to make a folder called extensions in your codespace.
 
 Then execute

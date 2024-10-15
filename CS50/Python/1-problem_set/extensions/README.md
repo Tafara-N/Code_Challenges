@@ -32,23 +32,38 @@ Next execute
 mkdir extensions
 ```
 
-to make a folder called extensions in your codespace.
+to make a folder called `extensions` in your codespace.
 
 Then execute
 
+```bash
 cd extensions
-to change directories into that folder. You should now see your terminal prompt as extensions/ $. You can now execute
+```
 
+to change directories into that folder. You should now see your terminal prompt as `extensions/ $`. You can now execute
+
+```bash
 code extensions.py
-to make a file called extensions.py where you’ll write your program.
+```
 
-How to Test
+to make a file called `extensions.py` where you’ll write your program.
+
+### How to Test
+
 Here’s how to test your code manually:
 
-Run your program with python extensions.py. Type happy.jpg and press Enter. Your program should output:
-image/jpeg
-Run your program with python extensions.py. Type document.pdf and press Enter. Your program should output:
-application/pdf
+- Run your program with `python extensions.py`. Type `happy.jpg` and press Enter. Your program should output:
+
+```bash
+    image/jpeg
+```
+
+- Run your program with `python extensions.py`. Type `document.pdf` and press Enter. Your program should output:
+
+```bash
+    application/pdf
+```
+
 Be sure to test each of the other file formats, vary the casing of your input, and “accidentally” add spaces on either side of your input before pressing enter. Your program should behave as expected, case- and space-insensitively.
 
 You can execute the below to check your code using check50, a program that CS50 will use to test your code when you submit. But be sure to test it yourself as well!

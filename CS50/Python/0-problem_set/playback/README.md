@@ -6,7 +6,7 @@ In a file called `playback.py`, implement a program in Python that prompts the u
 
 ## Before You Begin
 
-Log into cs50.dev, click on your terminal window, and execute cd by itself. You should find that your terminal window’s prompt resembles the below:
+Log into cs50.dev, click on your terminal window, and execute `cd` by itself. You should find that your terminal window’s prompt resembles the below:
 
 ```bash
 $

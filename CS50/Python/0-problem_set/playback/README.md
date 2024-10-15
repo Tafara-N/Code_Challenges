@@ -44,10 +44,14 @@ Run your program with python playback.py. Type This is our week on functions and
 This...is...our...week...on...functions
 Run your program with python playback.py. Type Let's implement a function called hello and press Enter. Your program should output
 Let's...implement...a...function...called...hello
+
 You can execute the below to check your code using check50, a program that CS50 will use to test your code when you submit. But be sure to test it yourself as well!
 
+```bash
 check50 cs50/problems/2022/python/playback
-Green smilies mean your program has passed a test! Red frownies will indicate your program output something unexpected. Visit the URL that check50 outputs to see the input check50 handed to your program, what output it expected, and what output your program actually gave.
+```
+
+Green smilies mean your program has passed a test! Red frownies will indicate your program output something unexpected. Visit the URL that `check50` outputs to see the input `check50` handed to your program, what output it expected, and what output your program actually gave.
 
 ### How to Submit
 

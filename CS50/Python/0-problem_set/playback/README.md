@@ -38,14 +38,25 @@ to make a file called `playback.py` where you’ll write your program.
 
 Here’s how to test your code manually:
 
-Run your program with python playback.py. Type This is CS50 and press Enter. Your program should output:
-This...is...CS50
-Run your program with python playback.py. Type This is our week on functions and press Enter. Your program should output:
-This...is...our...week...on...functions
-Run your program with python playback.py. Type Let's implement a function called hello and press Enter. Your program should output
-Let's...implement...a...function...called...hello
+- Run your program with `python playback.py`. Type `This is CS50` and press Enter. Your program should output:
 
-You can execute the below to check your code using check50, a program that CS50 will use to test your code when you submit. But be sure to test it yourself as well!
+```bash
+    This...is...CS50
+```
+
+- Run your program with `python playback.py`. Type `This is our week on functions` and press Enter. Your program should output:
+
+```bash
+    This...is...our...week...on...functions
+```
+
+- Run your program with python `playback.py`. Type `Let's implement a function called hello` and press Enter. Your program should output
+
+```bash
+    Let's...implement...a...function...called...hello
+```
+
+You can execute the below to check your code using `check50`, a program that CS50 will use to test your code when you submit. But be sure to test it yourself as well!
 
 ```bash
 check50 cs50/problems/2022/python/playback

@@ -4,23 +4,30 @@ In [season 7](https://en.wikipedia.org/wiki/The_Invitations), [episode 24](https
 
 In a file called bank.py, implement a program that prompts the user for a greeting. If the greeting starts with “hello”, output $0. If the greeting starts with an “h” (but not “hello”), output $20. Otherwise, output $100. Ignore any leading whitespace in the user’s greeting, and treat the user’s greeting case-insensitively.
 
-Hints
-Demo
+## Before You Begin
+Log into cs50.dev, click on your terminal window, and execute `cd` by itself. You should find that your terminal window’s prompt resembles the below:
 
-Before You Begin
-Log into cs50.dev, click on your terminal window, and execute cd by itself. You should find that your terminal window’s prompt resembles the below:
-
+```bash
 $
+```
+
 Next execute
 
+```bash
 mkdir bank
-to make a folder called bank in your codespace.
+```
+
+to make a folder called `bank` in your codespace.
 
 Then execute
 
+```bash
 cd bank
-to change directories into that folder. You should now see your terminal prompt as bank/ $. You can now execute
+```
 
+to change directories into that folder. You should now see your terminal prompt as `bank/ $`. You can now execute
+
+```bash
 code bank.py
 ```
 

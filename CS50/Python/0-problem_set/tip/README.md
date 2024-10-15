@@ -60,7 +60,7 @@ to change directories into that folder. You should now see your terminal prompt 
 code tip.py
 ```
 
-to make a file called `tip.py`. Copy and paste the code above into a file, and complete the implementations of `dollars_to_float` and `percent_to_float`, replacing each TODO with one or more lines of your own code.
+to make a file called `tip.py`. Copy and paste the code above into a file, and complete the implementations of `dollars_to_float` and `percent_to_float`, replacing each `TODO` with one or more lines of your own code.
 
 ### How to Test
 

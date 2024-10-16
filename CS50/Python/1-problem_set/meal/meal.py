@@ -22,6 +22,7 @@ convert should return 7.5 (i.e., 7.5 hours).
 
 """
 
+
 def main() -> None:
     """
     Main function for meal program
@@ -70,7 +71,7 @@ def convert(time: str) -> float:
     else:
         hours, minutes = map(int, time.split(":"))
 
-    return hours + minutes / 60
+    return hours + (minutes / 60)
 
 
 if __name__ == "__main__":

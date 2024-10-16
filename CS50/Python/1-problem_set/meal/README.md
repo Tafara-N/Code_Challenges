@@ -43,9 +43,11 @@ to make a file called meal.py where you’ll write your program.
 Challenge
 If up for a challenge, optionally add support for 12-hour times, allowing the user to input times in these formats too:
 
-#:## a.m. and ##:## a.m.
-#:## p.m. and ##:## p.m.
-How to Test
+- `#:## a.m.` and `##:## a.m.`
+- `#:## p.m.` and `##:## p.m.`
+
+## How to Test
+
 Here’s how to test your code manually:
 
 - Run your program with `python meal.py`. Type `7:00` and press Enter. Your program should output:

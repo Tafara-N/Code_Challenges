@@ -15,32 +15,52 @@ def convert(time):
 
 if __name__ == "__main__":
     main()
-Hints
-Recall that a str comes with quite a few methods, per docs.python.org/3/library/stdtypes.html#string-methods, including split, which separates a str into a sequence of values, all of which can be assigned to variables at once. For instance, if time is a str like "7:30", then
+```
+
+## Hints
+
+- Recall that a `str` comes with quite a few methods, per [docs.python.org/3/library/stdtypes.html#string-methods](https://docs.python.org/3/library/stdtypes.html#string-methods), including `split`, which separates a `str` into a sequence of values, all of which can be assigned to variables at once. For instance, if `time` is a `str` like `"7:30"`, then
+
+```python
 hours, minutes = time.split(":")
-will assign "7" to hours and "30" to minutes.
+```
 
-Keep in mind that there are 60 minutes in 1 hour.
-Demo
+will assign `"7"` to `hours` and `"30"` to `minutes`.
 
-Before You Begin
-Log into cs50.dev, click on your terminal window, and execute cd by itself. You should find that your terminal window’s prompt resembles the below:
+- Keep in mind that there are 60 minutes in 1 hour.
 
+## Before You Begin
+
+Log into cs50.dev, click on your terminal window, and execute `cd` by itself. You should find that your terminal window’s prompt resembles the below:
+
+```bash
 $
+```
+
 Next execute
 
+```bash
 mkdir meal
-to make a folder called meal in your codespace.
+```
+
+to make a folder called `meal` in your codespace.
 
 Then execute
 
+```bash
 cd meal
-to change directories into that folder. You should now see your terminal prompt as meal/ $. You can now execute
+```
 
+to change directories into that folder. You should now see your terminal prompt as `meal/ $`. You can now execute
+
+```bash
 code meal.py
-to make a file called meal.py where you’ll write your program.
+```
 
-Challenge
+to make a file called `meal.py` where you’ll write your program.
+
+## Challenge
+
 If up for a challenge, optionally add support for 12-hour times, allowing the user to input times in these formats too:
 
 - `#:## a.m.` and `##:## a.m.`

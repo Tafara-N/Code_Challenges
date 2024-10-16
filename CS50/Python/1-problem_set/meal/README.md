@@ -48,13 +48,25 @@ If up for a challenge, optionally add support for 12-hour times, allowing the us
 How to Test
 Here’s how to test your code manually:
 
-Run your program with python meal.py. Type 7:00 and press Enter. Your program should output:
+- Run your program with `python meal.py`. Type `7:00` and press Enter. Your program should output:
+
+```bash
 breakfast time
-Run your program with python meal.py. Type 7:30 and press Enter. Your program should output:
+```
+
+- Run your program with `python meal.py`. Type `7:30` and press Enter. Your program should output:
+
+```bash
 breakfast time
-Run your program with python meal.py. Type 12:42 and press Enter. Your program should output
+```
+
+- Run your program with `python meal.py`. Type `12:42` and press Enter. Your program should output
+
+```bash
 lunch time
-Run your program with python meal.py. Type 18:32 and press Enter. Your program should output
+```
+
+- Run your program with `python meal.py`. Type `18:32` and press Enter. Your program should output
 
 ```bash
 dinner time

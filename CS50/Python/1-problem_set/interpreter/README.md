@@ -29,8 +29,11 @@ to make a folder called `interpreter` in your codespace.
 
 Then execute
 
+```bash
 cd interpreter
-to change directories into that folder. You should now see your terminal prompt as interpreter/ $. You can now execute
+```
+
+to change directories into that folder. You should now see your terminal prompt as `interpreter/ $`. You can now execute
 
 code interpreter.py
 to make a file called interpreter.py where you’ll write your program.

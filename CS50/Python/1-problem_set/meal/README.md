@@ -54,8 +54,13 @@ Run your program with python meal.py. Type 7:30 and press Enter. Your program sh
 breakfast time
 Run your program with python meal.py. Type 12:42 and press Enter. Your program should output
 lunch time
-Run your program with python meal.py. Type 18:32 and press Enter. Your program should output
+```
+
+- Run your program with python meal.py. Type 18:32 and press Enter. Your program should output
+
+```bash
 dinner time
+```
 
 You can execute the below to check your code using `check50`, a program that CS50 will use to test your code when you submit. But be sure to test it yourself as well!
 

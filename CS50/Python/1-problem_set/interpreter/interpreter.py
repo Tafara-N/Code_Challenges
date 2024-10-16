@@ -14,6 +14,18 @@ z is an integer
 """
 
 
+def main() -> None:
+    """
+    Prompt the user for an arithmetic expression and then calculate and output
+    """
+
+    x, y, z = input("Expression: ").split()
+
+    result = interpreter(int(x), y, int(z))
+
+    print(f"{result:.1f}")
+
+
 def interpreter(x: int, y: str, z:int) -> float:
     """
     Calculate the result of an arithmetic expression.
@@ -43,18 +55,6 @@ def interpreter(x: int, y: str, z:int) -> float:
                 exit(1)
         case _:
             return 0.0
-
-
-def main() -> None:
-    """
-    Prompt the user for an arithmetic expression and then calculate and output
-    """
-
-    x, y, z = input("Expression: ").split()
-
-    result = interpreter(int(x), y, int(z))
-
-    print(f"{result:.1f}")
 
 
 if __name__ == "__main__":

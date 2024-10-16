@@ -11,17 +11,21 @@ For instance, if the user inputs 1 + 1, your program should output 2.0. Assume t
 
 Note that, just as python itself is an interpreter for Python, so will your interpreter.py be an interpreter for math!
 
-Hints
-Demo
+## Before You Begin
 
-Before You Begin
-Log into cs50.dev, click on your terminal window, and execute cd by itself. You should find that your terminal window’s prompt resembles the below:
+Log into cs50.dev, click on your terminal window, and execute `cd` by itself. You should find that your terminal window’s prompt resembles the below:
 
+```bash
 $
+```
+
 Next execute
 
+```bash
 mkdir interpreter
-to make a folder called interpreter in your codespace.
+```
+
+to make a folder called `interpreter` in your codespace.
 
 Then execute
 

@@ -64,8 +64,11 @@ Green smilies mean your program has passed a test! Red frownies will indicate yo
 
 If you are failing the checks but are sure your program behaves correctly, make sure that you haven’t removed the
 
+```python
 if __name__ == "__main__":
     main()
+```
+
 line from the code structure you were given. That allows check50 to test your convert function separately. You’ll learn more about this in later weeks.
 
 ### How to Submit

@@ -35,19 +35,35 @@ cd interpreter
 
 to change directories into that folder. You should now see your terminal prompt as `interpreter/ $`. You can now execute
 
+```bash
 code interpreter.py
-to make a file called interpreter.py where you’ll write your program.
+```
 
-How to Test
+to make a file called `interpreter.py` where you’ll write your program.
+
+## How to Test
+
 Here’s how to test your code manually:
 
-Run your program with python interpreter.py. Type 1 + 1 and press Enter. Your program should output:
+- Run your program with `python interpreter.py`. Type `1 + 1` and press Enter. Your program should output:
+
+```bash
 2.0
-Run your program with python interpreter.py. Type 2 - 3 and press Enter. Your program should output:
+```
+
+- Run your program with `python interpreter.py`. Type `2 - 3` and press Enter. Your program should output:
+
+```bash
 -1.0
-Run your program with python interpreter.py. Type 2 * 2 and press Enter. Your program should output
+```
+
+- Run your program with `python interpreter.py`. Type `2 * 2` and press Enter. Your program should output
+
+```bash
 4.0
-Run your program with python interpreter.py. Type 50 / 5 and press Enter. Your program should output
+```
+
+- Run your program with python interpreter.py. Type 50 / 5 and press Enter. Your program should output
 10.0
 You can execute the below to check your code using check50, a program that CS50 will use to test your code when you submit. But be sure to test it yourself as well!
 

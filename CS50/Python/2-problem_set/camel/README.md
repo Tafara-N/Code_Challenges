@@ -23,10 +23,13 @@ $
 Next execute
 
 mkdir camel
-to make a folder called camel in your codespace.
+```
+
+to make a folder called `camel` in your codespace.
 
 Then execute
 
+```bash
 cd camel
 ```
 

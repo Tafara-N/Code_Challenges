@@ -1,6 +1,4 @@
 # camelCase
-
-**camel**
 ____
 
 ![Came Case](camelCase.png)

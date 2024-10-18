@@ -28,10 +28,15 @@ to make a folder called camel in your codespace.
 Then execute
 
 cd camel
-to change directories into that folder. You should now see your terminal prompt as camel/ $. You can now execute
+```
 
+to change directories into that folder. You should now see your terminal prompt as `camel/ $`. You can now execute
+
+```bash
 code camel.py
-to make a file called camel.py where you’ll write your program.
+```
+
+to make a file called `camel.py` where you’ll write your program.
 
 ## How to Test
 

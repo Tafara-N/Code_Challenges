@@ -33,7 +33,8 @@ to change directories into that folder. You should now see your terminal prompt 
 code camel.py
 to make a file called camel.py where you’ll write your program.
 
-How to Test
+## How to Test
+
 Here’s how to test your code manually:
 
 - Run your program with `python camel.py`. Type `name` and press Enter. Your program should output:

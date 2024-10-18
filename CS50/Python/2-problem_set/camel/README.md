@@ -38,9 +38,17 @@ Here’s how to test your code manually:
 
 Run your program with python camel.py. Type name and press Enter. Your program should output:
 name
-Run your program with python camel.py. Type firstName and press Enter. Your program should output:
+```
+
+- Run your program with `python camel.py`. Type `firstName` and press Enter. Your program should output:
+
+```bash
 first_name
-Run your program with python camel.py. Type preferredFirstName and press Enter. Your program should output
+```
+
+- Run your program with `python camel.py`. Type `preferredFirstName` and press Enter. Your program should output
+
+```bash
 preferred_first_name
 ```
 

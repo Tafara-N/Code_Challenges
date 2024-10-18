@@ -36,7 +36,9 @@ to make a file called camel.py where you’ll write your program.
 How to Test
 Here’s how to test your code manually:
 
-Run your program with python camel.py. Type name and press Enter. Your program should output:
+- Run your program with `python camel.py`. Type `name` and press Enter. Your program should output:
+
+```bash
 name
 ```
 

@@ -19,9 +19,13 @@ Demo
 Before You Begin
 Log into cs50.dev, click on your terminal window, and execute cd by itself. You should find that your terminal window’s prompt resembles the below:
 
+```bash
 $
+```
+
 Next execute
 
+```bash
 mkdir camel
 ```
 

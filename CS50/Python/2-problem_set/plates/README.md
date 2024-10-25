@@ -54,7 +54,7 @@ Then execute
 cd plates
 ```
 
-to change directories into that folder. You should now see your terminal prompt as plates/ $. You can now execute
+to change directories into that folder. You should now see your terminal prompt as `plates/ $`. You can now execute
 
 code plates.py
 to make a file called plates.py where you’ll write your program.

@@ -46,11 +46,14 @@ Next execute
 mkdir plates
 ```
 
-to make a folder called plates in your codespace.
+to make a folder called `plates` in your codespace.
 
 Then execute
 
+```bash
 cd plates
+```
+
 to change directories into that folder. You should now see your terminal prompt as plates/ $. You can now execute
 
 code plates.py

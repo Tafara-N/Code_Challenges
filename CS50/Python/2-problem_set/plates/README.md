@@ -56,8 +56,11 @@ cd plates
 
 to change directories into that folder. You should now see your terminal prompt as `plates/ $`. You can now execute
 
+```bash
 code plates.py
-to make a file called plates.py where you’ll write your program.
+```
+
+to make a file called `plates.py` where you’ll write your program.
 
 How to Test
 Here’s how to test your code manually:

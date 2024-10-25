@@ -96,8 +96,12 @@ Invalid
 Invalid
 ```
 
-Run your program with python plates.py. Type OUTATIME and press Enter. Your program should output
+- Run your program with python plates.py. Type OUTATIME and press Enter. Your program should output
+
+```bash
 Invalid
+```
+
 You can execute the below to check your code using check50, a program that CS50 will use to test your code when you submit. But be sure to test it yourself as well!
 
 check50 cs50/problems/2022/python/plates

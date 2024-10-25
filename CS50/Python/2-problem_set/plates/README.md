@@ -62,11 +62,16 @@ code plates.py
 
 to make a file called `plates.py` where you’ll write your program.
 
-How to Test
+## How to Test
+
 Here’s how to test your code manually:
 
-Run your program with python plates.py. Type CS50 and press Enter. Your program should output:
+- Run your program with python plates.py. Type CS50 and press Enter. Your program should output:
+
+```bash
 Valid
+```
+
 Run your program with python plates.py. Type CS05 and press Enter. Your program should output:
 Invalid
 Run your program with python plates.py. Type CS50P and press Enter. Your program should output

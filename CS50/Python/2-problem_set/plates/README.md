@@ -1,5 +1,6 @@
 # Vanity Plates
-CS50 license plate
+
+[CS50 license plate](plate.png)
 
 In Massachusetts, home to Harvard University, it’s possible to request a vanity license plate for your car, with your choice of letters and numbers instead of random ones. Among the requirements, though, are:
 

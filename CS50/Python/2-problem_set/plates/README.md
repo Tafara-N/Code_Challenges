@@ -30,7 +30,7 @@ main()
 ## Hints
 
 - Recall that a `str` comes with quite a few methods, per [docs.python.org/3/library/stdtypes.html#string-methods.](https://docs.python.org/3/library/stdtypes.html#string-methods)
-- Much like a `list`, a `str` is a “sequence” (of characters), which means it can be “[sliced](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations)” into shorter strings with syntax like s[i:j]. For instance, if s is "CS50", then s[0:2] would be "CS".
+- Much like a `list`, a `str` is a “sequence” (of characters), which means it can be “[sliced](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations)” into shorter strings with syntax like `s[i:j]`. For instance, if `s` is `"CS50"`, then `s[0:2]` would be `"CS"`.
 
 Before You Begin
 Log into cs50.dev, click on your terminal window, and execute cd by itself. You should find that your terminal window’s prompt resembles the below:

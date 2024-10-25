@@ -42,7 +42,10 @@ $
 
 Next execute
 
+```bash
 mkdir plates
+```
+
 to make a folder called plates in your codespace.
 
 Then execute

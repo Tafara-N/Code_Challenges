@@ -90,8 +90,12 @@ Invalid
 Invalid
 ```
 
-Run your program with python plates.py. Type H and press Enter. Your program should output
+- Run your program with python plates.py. Type H and press Enter. Your program should output
+
+```bash
 Invalid
+```
+
 Run your program with python plates.py. Type OUTATIME and press Enter. Your program should output
 Invalid
 You can execute the below to check your code using check50, a program that CS50 will use to test your code when you submit. But be sure to test it yourself as well!

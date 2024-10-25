@@ -72,9 +72,13 @@ Here’s how to test your code manually:
 Valid
 ```
 
-Run your program with python plates.py. Type CS05 and press Enter. Your program should output:
+- Run your program with python plates.py. Type CS05 and press Enter. Your program should output:
+
+```bash
 Invalid
-Run your program with python plates.py. Type CS50P and press Enter. Your program should output
+```
+
+- Run your program with python plates.py. Type CS50P and press Enter. Your program should output
 Invalid
 Run your program with python plates.py. Type PI3.14 and press Enter. Your program should output
 Invalid
